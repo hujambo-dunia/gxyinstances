@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4864,
+          28.1397
+        ]
+      },
+      "properties": {
+        "city": "Lutz",
+        "zipcode": "33548",
+        "country": "United States",
+        "country_code": "US",
+        "latitude": 28.1397,
+        "longitude": -82.4864,
+        "server_url": "http://apostl.moffitt.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7218,
+          30.3912
+        ]
+      },
+      "properties": {
+        "city": "Austin",
+        "zipcode": "78758",
+        "country": "United States",
+        "country_code": "US",
+        "latitude": 30.3912,
+        "longitude": -97.7218,
+        "server_url": "http://usegalaxy.org"
+      }
+    }
+  ]
+}
